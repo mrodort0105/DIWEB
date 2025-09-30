@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<header>
+    <h1>Este es una pagina de Diseño Web</h1>
+</header>
+<nav>
+    <ul>
+        <li>Posible enlace 1</li>
+        <li>Posible enlace 2</li>
+    </ul>
+</nav>
+<main>
+    <h2>Contenido Principal</h2>
+    <p>Este es el contenido principal de la página.</p>
+</main>
+<section>
+    <h2>Sección Adicional</h2>
+    <p>Esta es una sección adicional de la página.</p>
+</section>
+<article>
+    <h2>Artículo Relacionado</h2>
+    <p>Este es un artículo relacionado con el contenido principal.</p>
+</article>
+<aside>
+    <h2>Barra Lateral</h2>
+    <p>Este es el contenido de la barra lateral.</p>
+</aside>
+<footer>
+    <p>Derechos reservados © 2025</p>   
+</footer>
+</body>
+</html>
+</head>
